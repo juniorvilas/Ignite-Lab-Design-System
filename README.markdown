@@ -55,7 +55,7 @@ Neste evento vimos como usar tecnologias atuais e poderosas na construção de s
 
 ### Tela Login ##
 
-<img src="./public/Login.png" alt="Imagem da tela Login" />
+<img src="./.github/Desktop.png" alt="Imagem da tela Login" />
 
 
 
