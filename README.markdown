@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/home.png" alt="Ignite Lab - Design System" />
+  <img src="./.github/Desktop.png" alt="Ignite Lab - Design System" />
 
   &#xa0;
 
